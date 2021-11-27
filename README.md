@@ -6,7 +6,9 @@
 
 **Файл с вероятностями - answers_test.csv**
 
-**Файл скрипта - script.py **
+**Файл скрипта - script.py**
+
+**Файл презентации курсового проекта - presentation.pdf**
 
 #### Запуск скрипта ####
 *>python.exe script.py test_data_set.csv model.pickle*
