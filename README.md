@@ -11,10 +11,10 @@
 **Файл презентации курсового проекта - presentation.pdf**
 
 #### Запуск скрипта ####
-*>python.exe script.py test_data_set.csv model.pickle*
-	test_data_set.csv - файл с тестовым набором данных
-	model.pickle - файл с моделью
-	настройка путей фичам выполняется в самом скрипте, по умолчанию файлы находятся в папке скрипта
+*>python.exe script.py test_data_set.csv model.pickle*<br>
+	test_data_set.csv - файл с тестовым набором данных<br>
+	model.pickle - файл с моделью<br>
+	настройка путей фичам выполняется в самом скрипте, по умолчанию файлы находятся в папке скрипта<br>
 
 
 
