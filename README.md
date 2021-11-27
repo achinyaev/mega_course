@@ -10,7 +10,7 @@
 
 **Файл презентации курсового проекта - presentation.pdf**
 
-#### Запуск скрипта ####
+#### Запуск скрипта: ####
 *>python.exe script.py test_data_set.csv model.pickle*<br>
 <ul>	
 	<li>test_data_set.csv - файл с тестовым набором данных
